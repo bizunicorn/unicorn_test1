@@ -21,6 +21,7 @@ public class DateManager {
             mCalendar.setTimeZone(jst);
             mTodayCalendar.setTimeZone(jst);
         }
+        //a
 
         //当月の要素を取得
         public List<Date> getDays(){
